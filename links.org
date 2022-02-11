@@ -1,0 +1,103 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+* JavaScript
+
+** Basics
+*** Objects
+- [[https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object][How do I loop through or enumerate a JavaScript object^? - Stack Overflow]]
+- [[https://stackoverflow.com/questions/6491463/accessing-nested-javascript-objects-and-arrays-by-string-path][Accessing nested JavaScript objects and arrays by string path - Stack Overflow]]
+- [[https://stackoverflow.com/questions/572897/how-does-javascript-prototype-work][How does JavaScript .prototype work? - Stack Overflow]]
+- [[https://stackoverflow.com/questions/32925460/object-spread-vs-object-assign][javascript - Object spread vs. Object.assign - Stack Overflow]]
+
+*** Functions
+- [[https://stackoverflow.com/questions/111102/how-do-javascript-closures-work][How do JavaScript closures work? - Stack Overflow]]
+- [[https://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript][What is the (function() { } )() construct in JavaScript? - Stack Overflow]]
+
+*** Async / Promises
+- [[http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html][The 80/20 Guide to Async/Await in Node.js | www.thecodebarbarian.com]]
+- [[https://stackoverflow.com/questions/24662289/when-is-thensuccess-fail-considered-an-antipattern-for-promises][When is .then(success, fail) considered an antipattern for promi...]]
+
+*** Other
+- [[https://stackoverflow.com/questions/1535631/static-variables-in-javascript][Static variables in JavaScript - Stack Overflow]]
+- [[https://stackoverflow.com/questions/21117160/what-is-export-default-in-javascript][node.js - What is "export default" in JavaScript? - Stack Overflow]]
+
+** Patterns
+- [[https://hackernoon.com/9-javascript-design-patters-you-will-love][9 JavaScript Design Patterns You Will Love | HackerNoon]]
+- [[https://dev.to/orlowdev/factory-arrow-functions-and-es6-classes-in-javascript-1d83][Factory arrow functions in JavaScript - DEV Community]]
+- [[https://www.dofactory.com/javascript/design-patterns][JavaScript Design Patterns - Dofactory]]
+
+** FP in JavaScript
+*** Libraries
+- [[https://www.7urtle.com/documentation-7urtle-lambda][@7urtle/lambda - Functional programming library for JavaScript]]
+- [[https://sanctuary.js.org/][Sanctuary]]
+
+*** Guides
+- [[https://github.com/hemanth/functional-programming-jargon][Functional Programming Jargon]]
+- [[https://www.7urtle.com/javascript-applicative-functor-monads][Managing side effects with monads in JavaScript]]
+- [[https://vmayakumar.wordpress.com/2017/01/17/functional-programing-in-javascript/amp/][Functional Programing in Javascript – Lifelong Learning]]
+
+* Functional Programming
+** Concepts
+- [[https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6][What is a functor?. This is my attempt at explaining about… | by Thai Pangsak...]]
+- [[http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, And Monads In Pictures - adit.io]]
+
+** Monads
+- [[https://stackoverflow.com/questions/44965/what-is-a-monad][What is a monad? - Stack Overflow]]
+- [[https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem][A monad is just a monoid in the category of endofunctors, what's th...]]
+- [[https://wiki.haskell.org/Tutorials#Using_monads][Monad Tutorials - HaskellWiki]]
+- [[https://wiki.haskell.org/All_About_Monads][All About Monads - HaskellWiki]]
+- [[https://stackoverflow.com/questions/28139259/why-do-we-need-monads][Why do we need monads? - Stack Overflow]]
+- [[https://stackoverflow.com/questions/2704652/monad-in-plain-english-for-the-oop-programmer-with-no-fp-background?r=SearchResults][Monad in plain English? (For the OOP programmer with...]]
+- [[https://docs.microsoft.com/ru-ru/archive/blogs/wesdyer/the-marvels-of-monads][The Marvels of Monads | Microsoft Docs]]
+- ! [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html?m=1][A Neighborhood of Infinity: You Could Have Invented Monads! (And Maybe You Al...]]
+- ! [[https://www.stephendiehl.com/posts/monads.html][Monads Made Difficult]]
+- [[https://philipnilsson.github.io/Badness10k/escaping-hell-with-monads/][Escaping Hell with Monads]]
+- [[https://blog.softwaremill.com/monoid-in-the-category-of-endofunctors-b85bab43587b][Monoid in the Category of Endofunctors | by Krzysztof Grajek | SoftwareMill T...]]
+
+* Web Development
+** Node.JS
+- [[https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies][What's the difference between dependencies, devDependencies and pee...]]
+
+** React - Redux
+- [[https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux][Why do we need middleware for async flow in Redux? - Stack Overflow]]
+
+* Haskell
+** Basics
+- [[https://stackoverflow.com/questions/1012573/getting-started-with-haskell][Getting started with Haskell - Stack Overflow]]
+- [[https://stackoverflow.com/questions/940382/what-is-the-difference-between-dot-and-dollar-sign][What is the difference between . (dot) and $ (dollar sign)? -  Stack...]]
+- [[https://wiki.haskell.org/99_questions/1_to_10][99 questions/1 to 10 -  HaskellWiki]]
+- [[https://stackoverflow.com/questions/4978578/how-to-split-a-string-in-haskell][How to split a string in Haskell? -  Stack Overflow]]
+- [[https://stackoverflow.com/questions/7460809/can-someone-explain-the-traverse-function-in-haskell][traversal -  Can someone explain the traverse function in Haskell? -  Stack Ove...]]
+
+** Books
+- [[http://learnyouahaskell.com/chapters][Chapters -  Learn You a Haskell for Great Good!]]
+- [[http://book.realworldhaskell.org/read/][Real World Haskell]]
+- [[https://wiki.haskell.org/Haskell][HaskellWiki]]
+
+** Parsing
+- [[https://hackage.haskell.org/package/parsec][parsec: Monadic parser combinators]]
+- [[https://hasura.io/blog/parser-combinators-walkthrough/#fnref1][Parser Combinators: a Walkthrough]]
+
+** Types
+- [[https://stackoverflow.com/questions/12532552/what-part-of-hindley-milner-do-you-not-understand][What part of Hindley- Milner do you not understand? -  Stack Overflow]]
+- [[https://blog.tmorris.net/posts/20-intermediate-haskell-exercises/][λ Tony's Blog λ -  20 Intermediate Haskell Exercises]]
+
+** Testing
+- [[https://stackoverflow.com/questions/5683911/simple- haskell- unit- testing][Simple haskell unit testing -  Stack Overflow]]
+- [[https://stackoverflow.com/questions/6398996/good- haskell- source- to- read- and- learn- from][Good Haskell source to read and learn from -  Stack Overflow]]
+
+** Recipes
+- [[https://wiki.haskell.org/GHCi_in_colour][GHCi in colour -  HaskellWiki]]
+
+* Python
+** Recipes
+- [[https://stackoverflow.com/questions/4941753/is- there- a- math- ncr- function- in- python][Is there a math nCr function in python? -  Stack Overflow]]
+- [[https://stackoverflow.com/questions/22288569/how- do- i- activate- a- virtualenv- inside- pycharms- terminal][How do I activate a virtualenv inside PyCharm's terminal? -  Stack Ov...]]
+- [[https://stackoverflow.com/questions/20473572/django- rest- framework- file- upload][Django Rest Framework File Upload -  Stack Overflow]]
+
+** Builds
+- [[https://stackoverflow.com/questions/5458048/how- can- i- make- a- python- script- standalone- executable- to- run- without- any- dependen][How can I make a Python script standalone executable to run without ANY depen...]]
+
+* VBA
+** Recipes
+- [[https://stackoverflow.com/questions/10714251/how- to- avoid- using- select- in- excel- vba][How to avoid using Select in Excel VBA -  Stack Overflow]]
+- [[https://stackoverflow.com/questions/10380312/loop- through- files- in- a- folder- using- vba][Loop through files in a folder using VBA? -  Stack Overflow]]
