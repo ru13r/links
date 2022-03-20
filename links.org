@@ -70,17 +70,17 @@
 - [[https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux][Why do we need middleware for async flow in Redux? - Stack Overflow]]
 
 ** Chrome Extensions
-[[https://blog.logrocket.com/creating-chrome-extension-react-typescript/][Creating a Chrome extension with React and TypeScript - LogRocket Blog]]
-[[https://medium.com/litslink/how-to-create-google-chrome-extension-using-react-js-5c9e343323ff][How To Create A Google Chrome Extension With React | by Artem Diashkin | LITS...]]
-[[https://medium.com/@aleksanderzinewicz/google-chrome-extensions-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D0%B5%D0%BC-react-js-f13abf9eb5ab][Google Chrome Extensions — Часть 3. Подключаем React JS | by Aleks Zinevych |...]]
+- [[https://blog.logrocket.com/creating-chrome-extension-react-typescript/][Creating a Chrome extension with React and TypeScript - LogRocket Blog]]
+- [[https://medium.com/litslink/how-to-create-google-chrome-extension-using-react-js-5c9e343323ff][How To Create A Google Chrome Extension With React | by Artem Diashkin | LITS...]]
+- [[https://medium.com/@aleksanderzinewicz/google-chrome-extensions-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D0%B5%D0%BC-react-js-f13abf9eb5ab][Google Chrome Extensions — Часть 3. Подключаем React JS | by Aleks Zinevych |...]]
 ** MERN Stack
 *** MongoDB
-[[https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-3][6 Rules of Thumb for MongoDB Schema Design: Part 3 | MongoDB Blog]]
-[[https://www.mongodb.com/developer/article/mongoose-versus-nodejs-driver/][MongoDB & Mongoose: Compatibility and Comparison]]
-[[https://www.mongodb.com/developer/article/mongodb-schema-design-best-practices/][MongoDB Schema Design Best Practices]]
+- [[https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-3][6 Rules of Thumb for MongoDB Schema Design: Part 3 | MongoDB Blog]]
+- [[https://www.mongodb.com/developer/article/mongoose-versus-nodejs-driver/][MongoDB & Mongoose: Compatibility and Comparison]]
+- [[https://www.mongodb.com/developer/article/mongodb-schema-design-best-practices/][MongoDB Schema Design Best Practices]]
 *** Express
 *** React
-[[https://www.telerik.com/kendo-react-ui/react-hooks-guide/][The React Hooks Guide - Tutorials and Examples | KendoReact]]
+- [[https://www.telerik.com/kendo-react-ui/react-hooks-guide/][The React Hooks Guide - Tutorials and Examples | KendoReact]]
 * Haskell
 ** Basics
 - [[https://stackoverflow.com/questions/1012573/getting-started-with-haskell][Getting started with Haskell - Stack Overflow]]
@@ -112,11 +112,11 @@
 
 * Python
 ** Installation
-[[https://opensource.com/article/19/6/python-virtual-environments-mac][How to set up virtual environments for Python on MacOS | Opensource.com]]
+- [[https://opensource.com/article/19/6/python-virtual-environments-mac][How to set up virtual environments for Python on MacOS | Opensource.com]]
 ** Resources
-[[https://hackernoon.com/why-python-is-best-programming-language-for-data-science-and-machine-learning][Why Python is Best Programming Language for Data Science & Machine Learning?]]
-[[https://realpython.com/python-keywords/][Python Keywords: An Introduction – Real Python]]
-[[https://mathspp.com/blog/pydonts/pass-by-value-reference-and-assignment][Pass-by-value, reference, and assignment | Pydon't 🐍 | Mathspp]]
+- [[https://hackernoon.com/why-python-is-best-programming-language-for-data-science-and-machine-learning][Why Python is Best Programming Language for Data Science & Machine Learning?]]
+- [[https://realpython.com/python-keywords/][Python Keywords: An Introduction – Real Python]]
+- [[https://mathspp.com/blog/pydonts/pass-by-value-reference-and-assignment][Pass-by-value, reference, and assignment | Pydon't 🐍 | Mathspp]]
 
 ** Recipes
 - [[https://stackoverflow.com/questions/4941753/is- there- a- math- ncr- function- in- python][Is there a math nCr function in python? -  Stack Overflow]]
