@@ -14,7 +14,9 @@
 *** Async / Promises
 - [[http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html][The 80/20 Guide to Async/Await in Node.js | www.thecodebarbarian.com]]
 - [[https://stackoverflow.com/questions/24662289/when-is-thensuccess-fail-considered-an-antipattern-for-promises][When is .then(success, fail) considered an antipattern for promi...]]
-
+- [[https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5][How JavaScript works: Event loop and the rise of Async programming + 5 ways t...]]
+- [[https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20performance/ch3.md][You-Dont-Know-JS/ch3.md at 1st-ed · getify/You-Dont-Know-JS · GitHub]]
+- [[https://nikgrozev.com/2017/10/01/async-await/][Await and Async Explained with Diagrams and Examples]]
 *** Other
 - [[https://stackoverflow.com/questions/1535631/static-variables-in-javascript][Static variables in JavaScript - Stack Overflow]]
 - [[https://stackoverflow.com/questions/21117160/what-is-export-default-in-javascript][node.js - What is "export default" in JavaScript? - Stack Overflow]]
