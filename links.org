@@ -1,4 +1,7 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+* Git
+** Documentation
+- [[https://git-scm.com/about][About - Git]]
 * JavaScript
 ** Basics
 *** Objects
@@ -49,7 +52,8 @@
 - [[http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, And Monads In Pictures - adit.io]]
 - [p] [[https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221][Javascript Functor, Applicative, Monads in pictures | by Tze-Hsiang Lin | Medium]]
 - ! [[https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610][Your easy guide to Monads, Applicatives, & Functors | by Lettier | Medium]]
-
+- [[https://habr.com/ru/company/vk/blog/327522/][Функциональное программирование в JavaScript с практическими примерами / Хабр]]
+- [[https://habr.com/ru/company/yandex/blog/547786/][Шпаргалка по функциональному программированию / Хабр]]
 ** Monads
 - [[https://stackoverflow.com/questions/44965/what-is-a-monad][What is a monad? - Stack Overflow]]
 - [[https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem][A monad is just a monoid in the category of endofunctors, what's th...]]
@@ -63,6 +67,17 @@
 - [[https://philipnilsson.github.io/Badness10k/escaping-hell-with-monads/][Escaping Hell with Monads]]
 - [[https://blog.softwaremill.com/monoid-in-the-category-of-endofunctors-b85bab43587b][Monoid in the Category of Endofunctors | by Krzysztof Grajek | SoftwareMill T...]]
 - [[https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/][Translation from Haskell to JavaScript of selected portions of the best intro...]]
+
+** Links collections
+- [[https://github.com/xgrommx/awesome-functional-programming][GitHub - Awesome functional programming repo]]
+** Books
+- [[https://mostly-adequate.gitbook.io/mostly-adequate-guide/][Introduction - mostly-adequate-guide]]
+- [[https://drive.google.com/file/d/1j1IUHjiKYs3WSzgYQT294Eyro9JosoXT/view][Functional Programming in JavaScript]]
+** Fantasy Land
+- [[https://github.com/fantasyland/fantasy-land][Fantasy Land Specification]]
+- [[http://www.tomharding.me/fantasy-land/][Fantas, Eel, and Specification · Tom Harding]]
+- [[https://sanderv1992.github.io/fp/][Functional Programming (Fantasy Land JavaScript specification Guide)]]
+** Category Theory
 
 * Web Development
 ** Node.JS
