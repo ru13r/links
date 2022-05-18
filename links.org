@@ -1,4 +1,7 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+* Coding Problems
+** Solutions
+- [[https://github.com/ruppysuppy/Daily-Coding-Problem-Solutions][GitHub - ruppysuppy/Daily-Coding-Problem-Solutions: 🎓🖥️ Solutions for 350+ In...]]
 * Git
 ** Documentation
 - [[https://git-scm.com/about][About - Git]]
@@ -45,7 +48,6 @@
 ** Data Structures
 *** Tree
 - [[https://stackoverflow.com/questions/52807498/nested-reduce-functions-recursion-functional-programming-tree-traversal][Nested Reduce Functions / Recursion / Functional Programming / T...]]
-
 * Functional Programming
 ** Concepts
 - [[https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6][What is a functor?. This is my attempt at explaining about… | by Thai Pangsak...]]
@@ -83,7 +85,13 @@
 ** Node.JS
 - [[https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies][What's the difference between dependencies, devDependencies and pee...]]
 
-** React - Redux
+** React
+- [[https://www.robinwieruch.de/react-function-component/][React Function Components]]
+- [[https://www.robinwieruch.de/react-controlled-components/][What are Controlled Components in React]]
+** React Hooks
+- [Video] [[https://www.youtube.com/watch?v=LlvBzyy-558&ab_channel=PedroTech][React Hooks Course - All React Hooks Explained - YouTube]]
+- [[https://devtrium.com/posts/async-functions-useeffect][How to use async functions in useEffect (with examples) - Devtrium]]
+** Redux
 - [[https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux][Why do we need middleware for async flow in Redux? - Stack Overflow]]
 
 ** Chrome Extensions
