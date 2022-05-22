@@ -47,7 +47,11 @@
 
 ** Data Structures
 *** Tree
-- [[https://stackoverflow.com/questions/52807498/nested-reduce-functions-recursion-functional-programming-tree-traversal][Nested Reduce Functions / Recursion / Functional Programming / T...]]
+- [[https://stackoverflow.com/questions/52807498/nested-reduce-functions-recursion-functional-programming-tree-traversal][Nested Reduce Functions / Recursion / Functional Programming / T...]
+* TypeScript
+** Basics
+- [[https://ts.chibicode.com/todo/][TypeScript Tutorial for JS Programmers Who Know How to Build a Todo App]]
+- [[https://2ality.com/2018/04/type-notation-typescript.html][Understanding TypeScript’s type notation]]
 * Functional Programming
 ** Concepts
 - [[https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6][What is a functor?. This is my attempt at explaining about… | by Thai Pangsak...]]
